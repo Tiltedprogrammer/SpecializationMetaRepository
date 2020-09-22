@@ -1,0 +1,3 @@
+[submodule "impala-sparse"]
+	path = impala-sparse
+	url = https://github.com/Tiltedprogrammer/impala-sparse
