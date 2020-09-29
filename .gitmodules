@@ -1,3 +1,6 @@
 [submodule "impala-sparse"]
 	path = impala-sparse
 	url = https://github.com/Tiltedprogrammer/impala-sparse
+[submodule "spec_experiments"]
+	path = spec_experiments
+	url = https://github.com/ibalashov24/spec_experiments.git
